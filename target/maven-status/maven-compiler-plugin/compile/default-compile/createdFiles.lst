@@ -1,0 +1,6 @@
+entite\Customer.class
+com\mycompany\tpcustomerapplication\ejb\CustomerManager.class
+entite\Discount.class
+com\mycompany\tpcustomerapplication\JakartaRestConfiguration.class
+entite\MicroMarket.class
+com\mycompany\tpcustomerapplication\resources\JakartaEE10Resource.class
