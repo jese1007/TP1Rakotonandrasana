@@ -1,6 +1,11 @@
-entite\Customer.class
-com\mycompany\tpcustomerapplication\ejb\CustomerManager.class
-entite\Discount.class
-com\mycompany\tpcustomerapplication\JakartaRestConfiguration.class
-entite\MicroMarket.class
-com\mycompany\tpcustomerapplication\resources\JakartaEE10Resource.class
+mg\itu\rakotonandrasana\tp1\entite\Customer.class
+mg\itu\rakotonandrasana\tp1\ejb\CustomerManager.class
+mg\itu\rakotonandrasana\tp1\entite\Discount.class
+mg\itu\rakotonandrasana\tp1\jsf\CustomerBean.class
+mg\itu\rakotonandrasana\tp1\ejb\DiscountManager.class
+mg\itu\rakotonandrasana\tp1\jsf\CustomerDetailsBean.class
+mg\itu\rakotonandrasana\tp1\jsf\DiscountConverter.class
+mg\itu\rakotonandrasana\tp1\JakartaRestConfiguration.class
+mg\itu\rakotonandrasana\tp1\entite\MicroMarket.class
+mg\itu\rakotonandrasana\tp1\config\ConfigJSF.class
+mg\itu\rakotonandrasana\tp1\resources\JakartaEE10Resource.class
